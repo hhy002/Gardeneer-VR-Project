@@ -40,8 +40,21 @@ Project Description - Gardeneer VR
 
 Complete Setup/Installation instructions
 
-    Install Unity Hub using the 2022.3.44f1 editor version, follow its instructions. Download this project and unzip the folder. In the Unity Hub application, go to the dropdown next to "Add", select "Add project from disk" and use the extracted folder. If you do not have a headset, skip to the next paragraph down. In Unity, you then have to go to "File -> Build Settings" and plug in your Headset. After plugging it in, click "Refresh" next to "Run Device" and in the drop down of "Default Device" you should see your Headset. Once that is completed, click build and run below, and save your build however you want.
-    No headset: There is an XR Device Simulator under the XR tab in the Hierarchy tab. Click to enable it at the top of the inspector tab and click the play button at the top middle of the scene. You will have less functionality, including not being able to see gravity all the time and not being able to interact with the UI. 
+    Install Unity Hub using the 2022.3.44f1 editor version, follow its 
+    instructions. Download this project and unzip the folder. In the 
+    Unity Hub application, go to the dropdown next to "Add", select 
+    "Add project from disk" and use the extracted folder. If you do not 
+    have a headset, skip to the next paragraph down. In Unity, you then 
+    have to go to "File -> Build Settings" and plug in your Headset. 
+    After plugging it in, click "Refresh" next to "Run Device" and in 
+    the drop down of "Default Device" you should see your Headset. Once 
+    that is completed, click build and run below, and save your build 
+    however you want.
+    No headset: There is an XR Device Simulator under the XR tab in the 
+    Hierarchy tab. Click to enable it at the top of the inspector tab 
+    and click the play button at the top middle of the scene. You will 
+    have less functionality, including not being able to see gravity 
+    all the time and not being able to interact with the UI. 
 
 Hardware/Software requirements
 
@@ -49,5 +62,15 @@ Hardware/Software requirements
 
 Future Development Roadmap
 
-    Creating the garden to have plants grow from them using time from the skybox. Having the skybox give off a time variable, so we can use that as reference for all plants' time based growth. Have the "Reset everything" button be a "Sleep til morning" button, where the user can skip past the day and night to speed up the plant growing process. Have more plants to grow. Be able to cut down and replant trees to build more furniture. Be able to place signs of what crop you have growing. Rain sound effects that go away when disabling the rain. Actual growing plants with instructions on how to properly take care of them. Align the sky with the rotational sun.
+    Creating the garden to have plants grow from them using time from 
+    the skybox. Having the skybox give off a time variable, so we can 
+    use that as reference for all plants' time based growth. Have the 
+    "Reset everything" button be a "Sleep til morning" button, where 
+    the user can skip past the day and night to speed up the plant 
+    growing process. Have more plants to grow. Be able to cut down 
+    and replant trees to build more furniture. Be able to place signs 
+    of what crop you have growing. Rain sound effects that go away 
+    when disabling the rain. Actual growing plants with instructions 
+    on how to properly take care of them. Align the sky with the 
+    rotational sun.
 
