@@ -1,12 +1,42 @@
 VR Technical Issues
 
-    While creating my project, I had issues when using my headset once again, where my headset was seen as "unauthorized," so in the testing phases of development, I was unable to interact with the UI, and was not able to fully test collision for the garden, leading to them being possibly buggy.
+    While creating my project, I had issues when using my headset once 
+    again, where my headset was seen as "unauthorized," so in the 
+    testing phases of development, I was unable to interact with the 
+    UI, and was not able to fully test collision for the garden, 
+    leading to them being possibly buggy.
 
 Project Description - Gardeneer VR
 
-    A Gardening Simulation that has a relaxing environment. Its goal is to help people who are struggling to garden to learn how plants function, using real plants with their needs and requirements.
-    Currently, Gardeneer has a functioning night and day cycle, where the sky fades into day and night, and the directional light rotates to simulate the sun rising and setting. The user spawns with 4 garden plots, a house that contains all the tools, and seeds to plant into the garden plots. The watering can starts off spraying water to indicate to the user that they are able to pick it up to spray water, and they don't need to worry about getting water first. Then when picked up, the watering can will be able to detect its rotation and stop spewing water at a certain angle (can be changable). The harrow is a tool to till the ground, but is currently not working. The lighting in the house is a mixed of baked, and use of light probes, with the fireplace and the candles giving off a warm light. There is other furniture in the house, including hooks and hats, where the user is also able to wear the hats themselves.
-    The simulation's environment shows trees, the house and the rain, which can be turned off using the UI inside the house. Surrounding the plains are mountains of varying sizes to show the user that they are in a secluded place. The UI in the house can be used to restart everything, and there is also a settings option, where the user is able to change their handedness (left or righthanded) and turn off the particles for rain, helping to aid in user comfortablility to let the user decide how they would like to see everything. The user also sees instructions right in the doorway, of which hand does what and when they load in for the firs time, they have a fade in, to not overwhelm them.
+    A Gardening Simulation that has a relaxing environment. Its goal 
+    is to help people who are struggling to garden to learn how 
+    plants function, using real plants with their needs and 
+    requirements. Currently, Gardeneer has a functioning night and 
+    day cycle, where the sky fades into day and night, and the 
+    directional light rotates to simulate the sun rising and setting. 
+    The user spawns with 4 garden plots, a house that contains all 
+    the tools, and seeds to plant into the garden plots. The watering 
+    can starts off spraying water to indicate to the user that they 
+    are able to pick it up to spray water, and they don't need to 
+    worry about getting water first. Then when picked up, the 
+    watering can will be able to detect its rotation and stop spewing 
+    water at a certain angle (can be changable). The harrow is a tool 
+    to till the ground, but is currently not working. The lighting in 
+    the house is a mixed of baked, and use of light probes, with the 
+    fireplace and the candles giving off a warm light. There is other 
+    furniture in the house, including hooks and hats, where the user 
+    is also able to wear the hats themselves. The simulation's 
+    environment shows trees, the house and the rain, which can be 
+    turned off using the UI inside the house. Surrounding the plains 
+    are mountains of varying sizes to show the user that they are in 
+    a secluded place. The UI in the house can be used to restart 
+    everything, and there is also a settings option, where the user 
+    is able to change their handedness (left or righthanded) and turn 
+    off the particles for rain, helping to aid in user comfortablility 
+    to let the user decide how they would like to see everything. The 
+    user also sees instructions right in the doorway, of which hand 
+    does what and when they load in for the firs time, they have a 
+    fade in, to not overwhelm them.
 
 Complete Setup/Installation instructions
 
