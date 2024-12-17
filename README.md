@@ -19,8 +19,8 @@ Project Description - Gardeneer VR
     A Gardening Simulation that has a relaxing environment. Its goal 
     is to help people who are struggling to garden to learn how 
     plants function, using real plants with their needs and 
-    requirements. Currently, Gardeneer has a functioning night and 
-    day cycle, where the sky fades into day and night, and the 
+    requirements. Currently, Gardeneer has a night and day cycle using
+    the skybox feature, where the sky fades into day and night, and the 
     directional light rotates to simulate the sun rising and setting. 
     The user spawns with 4 garden plots, a house that contains all 
     the tools, and seeds to plant into the garden plots. When planting 
