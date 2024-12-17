@@ -1,3 +1,6 @@
+Video Link
+    https://www.loom.com/share/6dde63ce5fd546af9c269889fe0b6609
+
 VR Technical Issues
 
     While creating my project, I had issues when using my headset once 
