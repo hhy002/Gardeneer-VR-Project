@@ -1,5 +1,7 @@
 Video Link
     https://www.loom.com/share/6dde63ce5fd546af9c269889fe0b6609
+    Video is longer than 5 min, due to difficulty navigating the XR
+    simulator device.
 
 VR Technical Issues
 
