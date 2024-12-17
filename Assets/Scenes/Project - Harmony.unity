@@ -5991,7 +5991,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 8
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_DisableVisualsWhenBlockedInGroup: 1
@@ -16171,17 +16171,17 @@ PrefabInstance:
     - target: {fileID: 5405601230861043432, guid: 4ea1cbf91d380e44ebb5b8f57c84293e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.189
       objectReference: {fileID: 0}
     - target: {fileID: 5405601230861043432, guid: 4ea1cbf91d380e44ebb5b8f57c84293e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.622
       objectReference: {fileID: 0}
     - target: {fileID: 5405601230861043432, guid: 4ea1cbf91d380e44ebb5b8f57c84293e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1.412
       objectReference: {fileID: 0}
     - target: {fileID: 5405601230861043432, guid: 4ea1cbf91d380e44ebb5b8f57c84293e,
         type: 3}
@@ -16217,6 +16217,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8755070025511660011, guid: 4ea1cbf91d380e44ebb5b8f57c84293e,
+        type: 3}
+      propertyPath: m_InteractionLayers.m_Bits
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 9063472166550719482, guid: 4ea1cbf91d380e44ebb5b8f57c84293e,
         type: 3}
@@ -16577,7 +16582,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1177364951
 RectTransform:
   m_ObjectHideFlags: 0
@@ -18797,7 +18802,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1579592261
 RectTransform:
   m_ObjectHideFlags: 0
@@ -26256,7 +26261,7 @@ MonoBehaviour:
   timeBetweenGrowths: 60
   maxGrowth: 4
   wateringCan: {fileID: 1715566750}
-  mustWaterDefault: 120
+  mustWaterDefault: 90
 --- !u!4 &2046667619
 Transform:
   m_ObjectHideFlags: 0
@@ -26266,7 +26271,7 @@ Transform:
   m_GameObject: {fileID: 2046667616}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.312, y: 0.796, z: -4.138}
+  m_LocalPosition: {x: 3.009, y: 0.19, z: -2.775}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
