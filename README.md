@@ -15,7 +15,9 @@ Project Description - Gardeneer VR
     day cycle, where the sky fades into day and night, and the 
     directional light rotates to simulate the sun rising and setting. 
     The user spawns with 4 garden plots, a house that contains all 
-    the tools, and seeds to plant into the garden plots. The watering 
+    the tools, and seeds to plant into the garden plots. When planting 
+    the seeds, they will then sprout after a given time, and if they are
+    not watered using the watering can, they will die. The watering can
     can starts off spraying water to indicate to the user that they 
     are able to pick it up to spray water, and they don't need to 
     worry about getting water first. Then when picked up, the 
@@ -67,10 +69,9 @@ Future Development Roadmap
     use that as reference for all plants' time based growth. Have the 
     "Reset everything" button be a "Sleep til morning" button, where 
     the user can skip past the day and night to speed up the plant 
-    growing process. Have more plants to grow. Be able to cut down 
-    and replant trees to build more furniture. Be able to place signs 
-    of what crop you have growing. Rain sound effects that go away 
-    when disabling the rain. Actual growing plants with instructions 
-    on how to properly take care of them. Align the sky with the 
-    rotational sun.
+    growing process. Be able to cut down and replant trees to build 
+    more furniture. Be able to place signs of what crop you have 
+    growing. Rain sound effects that go away when disabling the rain. 
+    Actual growing plants with instructions on how to properly take 
+    care of them. Align the sky with the rotational sun.
 
