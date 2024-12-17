@@ -4,7 +4,10 @@ VR Technical Issues
     again, where my headset was seen as "unauthorized," so in the 
     testing phases of development, I was unable to interact with the 
     UI, and was not able to fully test collision for the garden, 
-    leading to them being possibly buggy.
+    leading to them being possibly buggy. Strangly as well, imported 
+    assets don't fall when gravity is applied to them, and I'm not sure
+    what the issue is for that. The seeds are able to fall, but the 
+    tools and tomatoes are not.
 
 Project Description - Gardeneer VR
 
